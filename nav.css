@@ -1,0 +1,36 @@
+.nav{
+    height: 100%;
+    border-radius: 1em;
+    background-color: aliceblue;
+    box-shadow: 5px;
+}
+.nav > img{
+    margin: 0;
+    height: 3rem;
+    padding: 0.5rem 1.5rem; 
+}
+
+.img{
+    
+    width: 80%;
+    margin: 0% 8%;
+    margin-top: 1em ;
+    
+}
+h1{
+    margin: 0;
+    padding: 1.5rem;
+    padding-bottom: 0em;
+}
+p{
+
+    margin:0;
+    padding: 0.20rem 1.65rem;
+}
+.para{
+    
+    width: 70%;
+    font-family: cursive;
+    color: grey;
+    
+}
